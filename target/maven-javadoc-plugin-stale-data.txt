@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/ludvi/Documents/Programmering/Utv verktyg/Inl2/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ludvi/Documents/Programmering/Utv verktyg/Inl2/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\src\main\java = 1706880621600
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\allclasses-index.html = 1706888603577
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\allpackages-index.html = 1706888603581
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\element-list = 1706888603427
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\help-doc.html = 1706888603627
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\index-all.html = 1706888603614
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\index.html = 1706888603559
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\jquery-ui.overrides.css = 1706888603659
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\member-search-index.js = 1706888603590
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\module-search-index.js = 1706888603583
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\overview-summary.html = 1706888603620
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\overview-tree.html = 1706888603554
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\package-search-index.js = 1706888603585
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\script.js = 1706888603638
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\search.js = 1706888603642
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\serialized-form.html = 1706888603482
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\stylesheet.css = 1706888603635
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\tag-search-index.js = 1706888603592
+C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\site\apidocs\type-search-index.js = 1706888603587
