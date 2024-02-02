@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SE"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\ludvi\AppData\Local\Temp\surefire1766927231474544775\surefirebooter972794884001878261.jar C:\Users\ludvi\AppData\Local\Temp\surefire1766927231474544775 2024-02-02T16-49-49_949-jvmRun1 surefire3238133867361454261tmp surefire_08016271939758236686tmp"/>
+    <property name="sun.java.command" value="C:\Users\ludvi\AppData\Local\Temp\surefire12516657821960658828\surefirebooter5188993443529964719.jar C:\Users\ludvi\AppData\Local\Temp\surefire12516657821960658828 2024-02-02T16-55-02_890-jvmRun1 surefire4852582506846255674tmp surefire_09983938157496379329tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\test-classes;C:\Users\ludvi\Documents\Programmering\Utv verktyg\Inl2\Library\target\classes;C:\Users\ludvi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\ludvi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\ludvi\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\ludvi\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\ludvi\AppData\Local\Temp\surefire1766927231474544775\surefirebooter972794884001878261.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ludvi\AppData\Local\Temp\surefire12516657821960658828\surefirebooter5188993443529964719.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.8.1+1"/>
